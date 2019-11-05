@@ -6,6 +6,7 @@ end
 
 limit = array_test.length
 find_val = array_test[rand(limit)]
+p find_val
 
 a = Time.new
 
